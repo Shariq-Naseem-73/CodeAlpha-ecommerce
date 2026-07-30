@@ -48,28 +48,7 @@ The frontend of the application is built with ReactJS, Material UI, React-router
 - NodeJS
 - ExpressJS
 
-## Installation and Usage
 
-To run the backend server on your local machine, follow these steps:
-
-1. Clone the repository:
-
-   ```
-   git clone https://github.com/Saurabh-8585/MERN-E-Commerce-Backend.git
-   ```
-
-2. Install the dependencies:
-
-   ```
-   cd MERN-E-Commerce-Backend
-   npm install
-   ```
-
-3. Start the development server:
-
-   ```
-   npm run server
-   ```
 
 ## Contributing
 
